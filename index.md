@@ -1,10 +1,13 @@
 ## Welcome to PhaseZeroApps
 
-We make personalization apps with all our efforts.
+<br/>
 
-* Messages - SMS, Chat Messaging
+> We make personalization apps with all our efforts.
+
+<br/>
   
-Messages - SMS, Chat Messaging is the Best SMS & MMS replacement texting app for your phone, with delicately designed interfaces, complete SMS features as well as many themes for you to choose from!
+Messages - SMS, Chat Messaging is a Best SMS & MMS replacement texting app for your phone, with delicately designed interfaces, complete SMS features as well as many themes for you to choose from!
+
 
 🌟 Stylish Free Themes - Stylish Themes Different style for you to choose from: beautiful and technical; simple and sophisticate; more to come!
 
@@ -28,4 +31,4 @@ Messages - SMS, Chat Messaging is the Best SMS & MMS replacement texting app for
 
 ### Support or Contact
 
-Having trouble with our apps? [contact support](coppera72@gmail.com) and we’ll help you sort it out.
+Having trouble with our apps? Contact us at coppera72@gmail.com and we’ll help you sort it out.
