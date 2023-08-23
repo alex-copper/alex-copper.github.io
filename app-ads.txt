@@ -315,5 +315,8 @@ gitberry.com, 325100012, RESELLER
 pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
 contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 1361, RESELLER
+addapptr.com, 1d54d5d3f395ece125c9c4aeba5e5a32, DIRECT, b3bb5a9415a362a1
+google.com, pub-4397644604601927, RESELLER, f08c47fec0942fa0
+applovin.com, 39e6e7aabc46f8f763534f1e9d57ca4b, DIRECT
 triplelift.com, 12552, RESELLER, 6c33edb13117fd86
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
