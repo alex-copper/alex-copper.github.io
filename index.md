@@ -1,4 +1,4 @@
-## Welcome to PhaseZeroApps
+## Welcome to 北京悦瞳科技有限公司
 
 <br/>
 
@@ -29,6 +29,3 @@ Messages - SMS, Chat Messaging is a Best SMS & MMS replacement texting app for y
 
 🌟 Fancy Fonts & Font Sizes - Kinds of fonts and different font size are available now.
 
-### Support or Contact
-
-Having trouble with our apps? Contact us at coppera72@gmail.com and we’ll help you sort it out.
