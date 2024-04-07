@@ -1,4 +1,4 @@
-## Welcome to 北京悦瞳科技有限公司
+## Welcome to PhaseZeroApps
 
 <br/>
 
@@ -33,4 +33,4 @@ Messages - SMS, Chat Messaging is a Best SMS & MMS replacement texting app for y
 
 Having trouble with our apps? Contact us at alex@appsms.tech and we’ll help you sort it out.
 
-北京悦瞳科技有限公司
+PhaseZeroApps
